@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{lang}}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google" content="notranslate">
+  <title>{{title}}</title>
+  {{head}}
+</head>
+<body>
+  <header class="site"><div class="wrap">
+    <div class="brand">{{brand}}</div>
+    <nav class="crumbs">{{nav}}</nav>
+  </div></header>
+  <main class="wrap">
+    <section class="hero">
+      <h1>{{h1}}</h1>
+      <p class="lede">{{short_answer}}</p>
+      <div class="stats">
+        <div><b>{{price_line}}</b><span class="muted">price on the official site</span></div>
+        <div><b>{{checked}}</b><span class="muted">all facts checked</span></div>
+      </div>
+      <p class="muted">Price condition: {{price_condition}} Source:
+        <a href="{{price_source}}" rel="nofollow noopener" target="_blank">{{price_source}}</a>.</p>
+      <p><a class="btn" href="{{quote_url}}" rel="nofollow noopener" target="_blank">Check prices on {{name}}'s official site</a>
+        &nbsp; <a href="{{official_site}}" rel="nofollow noopener" target="_blank">Official site</a></p>
+    </section>
+
+    <h2>{{name}} facts — every line with its official source</h2>
+    <table>
+      <thead><tr><th>Fact</th><th>Condition to get it</th><th>Official source page</th><th>Checked</th></tr></thead>
+      <tbody>{{fact_table_rows}}</tbody>
+    </table>
+
+    <h2>{{name}} review, price, plan and discount — FAQ</h2>
+    {{faqs}}
+
+    <p class="muted">This page is not affiliated with {{name}}. It repeats only what {{name}} publishes on its own official pages; the manufacturer's own product page and specs always govern. Facts last checked {{checked}}.</p>
+
+    <footer class="site">{{footer}}</footer>
+  </main>
+</body>
+</html>

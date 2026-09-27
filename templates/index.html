@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{lang}}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google" content="notranslate">
+  <title>{{title}}</title>
+  {{head}}
+</head>
+<body>
+  <header class="site"><div class="wrap">
+    <div class="brand">{{brand}}</div>
+    <nav class="crumbs">{{nav}}</nav>
+  </div></header>
+  <main class="wrap">
+    <section class="hero">
+      <h1>Smart pet devices, answered on the first screen</h1>
+      <p class="lede">{{tagline}}</p>
+      <div class="answer">
+        <p><strong>Litter-Robot:</strong> published "As low as" prices - Litter-Robot 4 from $699, Litter-Robot 5 from $799, Litter-Robot 5 Pro from $899 - each with a 90-day in-home trial (full refund minus return shipping), 1 year of WhiskerCare included, 0% APR Affirm financing and HSA/FSA eligibility through Flex.</p>
+        <p><strong>Furbo:</strong> the Furbo 360° Dog Camera and Furbo 360° Cat Camera are each listed at $54 ("original price is $184"), with Furbo Nanny from $9.99/mo monthly or an average of $6.99/mo on the yearly Standard plan; 1 Year Warranty, free US shipping, free returns within 30 days.</p>
+        <p><strong>Petcube:</strong> Cam $26.99 (was $34.99), Cam 360 $34.99 (was $52.99), Play 2 $64.99 (was $99.00), Bites 2 Lite $79.99 (was $149.99), GPS Tracker $29.99 (was $52.99); no monthly fee by default, optional Petcube Care from $9.99/mo, 45-day money-back policy.</p>
+        <p><strong>Tractive and Pawfit:</strong> both sell the tracker plus a separate subscription. Tractive DOG 6 from 69 € with plans from 5 €/month (2-Year Basic); Pawfit 3 at £54.99 with Basic from £3.99/month (billed £95.76 every 2 years). Tractive and Pawfit each publish a 30-day money-back guarantee.</p>
+        <p class="muted">Every line above is sourced in the tables below and on each brand page, with the official URL and check date. Currencies differ by brand's own store: USD for Litter-Robot, Furbo and Petcube, EUR for tractive.com/en, GBP for Pawfit's UK store.</p>
+      </div>
+    </section>
+
+    <h2>The five brands at a glance</h2>
+    <div class="grid">{{cards}}</div>
+
+    <h2>Guides</h2>
+    <div class="grid">{{article_cards}}</div>
+
+    <h2>Facts with sources</h2>
+    <table>
+      <thead><tr><th>Fact</th><th>Condition to get it</th><th>Official source page</th><th>Checked</th></tr></thead>
+      <tbody>{{fact_table_rows}}</tbody>
+    </table>
+
+    <h2>FAQ</h2>
+    {{faqs}}
+
+    <footer class="site">{{footer}}</footer>
+  </main>
+</body>
+</html>

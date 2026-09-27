@@ -1,0 +1,619 @@
+{
+  "site": {
+    "name": "Pet Smart Device Decisions",
+    "tagline": "Smart pet devices - automatic litter boxes, pet cameras and GPS trackers: Litter-Robot, Furbo, Petcube, Tractive and Pawfit prices, plans and policies, with every fact read from the brand's own official page and shown with its source URL and check date.",
+    "base_url": "https://smart-pet-device-decisions.pages.dev",
+    "locale": "en-US",
+    "checked": "2026-09-27",
+    "repo": "https://github.com/wcsnm22/smart-pet-device-decisions"
+  },
+  "home_facts": [
+    {
+      "fact": "Litter-Robot publishes starting prices of $699 for Litter-Robot 4, $799 for Litter-Robot 5 and $899 for Litter-Robot 5 Pro, each shown as 'As low as' on its own product page.",
+      "condition": "'As low as' figures printed on each model's page on litter-robot.com; bundles and add-ons are priced separately and the site currently banners '$75 off select Litter-Robot bundles'.",
+      "source_url": "https://www.litter-robot.com/litter-robot-4.html",
+      "checked": "2026-09-27"
+    },
+    {
+      "fact": "Furbo lists the Furbo 360° Dog Camera and the Furbo 360° Cat Camera at $54 each, both showing 'original price is $184'.",
+      "condition": "Displayed on furbo.com/us product pages on the check date; the page also offers $10 off your first Furbo by e-mail sign-up and a free-camera trial that requires paying shipping.",
+      "source_url": "https://furbo.com/us/products/furbo-360-dog-camera",
+      "checked": "2026-09-27"
+    },
+    {
+      "fact": "Petcube's own store prices: Petcube Cam $26.99 (was $34.99), Cam 360 $34.99 (was $52.99), Play 2 $64.99 (was $99.00), Bites 2 Lite $79.99 (was $149.99) and Petcube GPS Tracker $29.99 (was $52.99).",
+      "condition": "Current and struck-through prices shown in Petcube's device menu and product pages on the check date; a site banner reads 'Save up to $67 on smart pet tech'.",
+      "source_url": "https://petcube.com/",
+      "checked": "2026-09-27"
+    },
+    {
+      "fact": "Tractive sells its DOG 6 tracker from 69 € and states that 'the subscription price is separate from the tracker'; the cheapest plan it lists is a 2-Year Basic plan from 5 € per month (120 € billed every 2 years).",
+      "condition": "Tracker price from the DOG 6 product page and plan prices from the plans page on tractive.com/en, both read on the check date; Tractive notes 'Pricing may vary depending on location'.",
+      "source_url": "https://tractive.com/en/c/plans",
+      "checked": "2026-09-27"
+    },
+    {
+      "fact": "Pawfit sells the Pawfit 3 tracker for £54.99 plus a subscription: the cheapest listed plan is Basic at £3.99 per month billed £95.76 every 2 years, and the top Premium 3-Year plan is £3.99 per month billed £143.64 every 3 years.",
+      "condition": "Prices printed on pawfit.com's Pawfit 3 page (UK store, GBP); Pawfit also states 30-day money back, 18-month warranty and free delivery on that page.",
+      "source_url": "https://www.pawfit.com/en-gb/product/pawfit-3.html",
+      "checked": "2026-09-27"
+    },
+    {
+      "fact": "Litter-Robot includes a 90-day in-home trial with a full refund minus return shipping, Petcube advertises a 45-day money-back policy on store purchases, and both Tractive and Pawfit publish a 30-day money-back guarantee.",
+      "condition": "Each figure is the brand's own published return window: litter-robot.com/money-back-guarantee.html, Petcube's store FAQ, tractive.com plans page and pawfit.com's Pawfit 3 page.",
+      "source_url": "https://www.litter-robot.com/money-back-guarantee.html",
+      "checked": "2026-09-27"
+    }
+  ],
+  "home_faqs": [
+    {
+      "q": "How much does an automatic litter box cost on the brand's own site?",
+      "a": "Litter-Robot publishes 'As low as' prices of $699 for Litter-Robot 4, $799 for Litter-Robot 5 and $899 for Litter-Robot 5 Pro, and lists a 90-day in-home trial with a full refund minus return shipping.",
+      "source_url": "https://www.litter-robot.com/litter-robot-4.html",
+      "checked": "2026-09-27"
+    },
+    {
+      "q": "How much does a Furbo pet camera cost?",
+      "a": "Furbo lists both the Furbo 360° Dog Camera and the Furbo 360° Cat Camera at $54 with 'original price is $184', and its Furbo Nanny subscription starts at $9.99 per month monthly or $6.99 per month on the yearly plan for the Standard tier.",
+      "source_url": "https://furbo.com/us/products/furbo-360-dog-camera",
+      "checked": "2026-09-27"
+    },
+    {
+      "q": "Do pet GPS trackers need a monthly subscription?",
+      "a": "Tractive says explicitly that 'the subscription price is separate from the tracker' and prices plans from 5 € per month on a 2-Year Basic plan; Pawfit likewise sells the Pawfit 3 '£54.99 + Subscription Plan' with Basic and Premium plans. Petcube, by contrast, prices its GPS Tracker as a $29.99 device purchase.",
+      "source_url": "https://tractive.com/en/c/plans",
+      "checked": "2026-09-27"
+    },
+    {
+      "q": "How long can I try a smart pet device before I'm stuck with it?",
+      "a": "Litter-Robot publishes a 90-day in-home trial (return within 90 days for a full refund, just pay return shipping; returned units must be clean or a cleaning fee applies), Petcube publishes a 45-day money-back policy for purchases on Petcube.com, and Tractive and Pawfit each publish a 30-day money-back guarantee.",
+      "source_url": "https://www.litter-robot.com/money-back-guarantee.html",
+      "checked": "2026-09-27"
+    },
+    {
+      "q": "Are any of these devices HSA/FSA eligible?",
+      "a": "Litter-Robot's own product page states the unit is HSA/FSA eligible, with eligibility determined per customer through Flex after a brief telehealth consultation approved within 24 hours; the other brands' pages checked on the same date publish no such claim, so none is made for them here.",
+      "source_url": "https://www.litter-robot.com/litter-robot-4.html",
+      "checked": "2026-09-27"
+    },
+    {
+      "q": "What warranty does each brand publish?",
+      "a": "Litter-Robot includes 1 year of WhiskerCare coverage and offers a 3-year extension for $129 on Litter-Robot 4 ($149 on Litter-Robot 5); Furbo publishes a 1 Year Warranty with free US shipping and free returns within 30 days; Petcube warrants products for one year in the US and Canada and two years in the EU and UK; Pawfit publishes an 18-month warranty.",
+      "source_url": "https://petcube.com/docs/warranty/",
+      "checked": "2026-09-27"
+    }
+  ],
+  "brands": [
+    {
+      "id": "litter-robot",
+      "name": "Litter-Robot",
+      "slug": "litter-robot",
+      "official_site": "https://www.litter-robot.com/",
+      "quote_url": "https://www.litter-robot.com/litter-robot-4.html",
+      "short_answer": "Litter-Robot (Whisker) sells self-cleaning litter boxes directly on litter-robot.com with published 'As low as' prices: $699 for Litter-Robot 4, $799 for Litter-Robot 5 and $899 for Litter-Robot 5 Pro. Every unit ships with a 90-day in-home trial and 1 year of WhiskerCare coverage, and the site currently runs a '$75 off select Litter-Robot bundles' banner.",
+      "price_line": "From $699 (Litter-Robot 4)",
+      "price_condition": "Litter-Robot 4 is listed as 'As low as $699' on its product page; Litter-Robot 5 is 'As low as $799' and Litter-Robot 5 Pro 'As low as $899' on their own pages. The homepage also shows 'Starting at just $44/mo' financing. Bundles, the LitterHopper ($129) and the 3-year WhiskerCare extension ($129 on LR4, $149 on LR5) are priced separately, and the '$75 off select bundles' banner can change or end without notice.",
+      "price_source": "https://www.litter-robot.com/litter-robot-4.html",
+      "facts": [
+        {
+          "fact": "Litter-Robot 4 is listed as 'As low as $699' on its product page.",
+          "condition": "Base unit price shown on litter-robot.com/litter-robot-4.html on the check date; the page also shows 'Color Bezels now only $35' as an add-on.",
+          "source_url": "https://www.litter-robot.com/litter-robot-4.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Litter-Robot 5 is listed as 'As low as $799' with the note 'Selling fast: Order now, ships in 1-3 days'.",
+          "condition": "Shown on the Litter-Robot 5 product page; the page shows a 4.6/5.0 rating from 241 reviews.",
+          "source_url": "https://www.litter-robot.com/litter-robot-5.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Litter-Robot 5 Pro is listed as 'As low as $899' with a 4.4/5.0 rating from 301 reviews.",
+          "condition": "Shown on the Litter-Robot 5 Pro product page on the check date.",
+          "source_url": "https://www.litter-robot.com/litter-robot-5-pro.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Litter-Robot includes a 90-day in-home trial: return within 90 days for a full refund, just pay return shipping.",
+          "condition": "Whisker Founder's Guarantee page: returned units must be clean, and a cleaning fee is applied if they are returned with litter or waste.",
+          "source_url": "https://www.litter-robot.com/money-back-guarantee.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Every Litter-Robot includes 1 year of WhiskerCare coverage; a 3-year WhiskerCare plan costs $129 on Litter-Robot 4 and $149 on Litter-Robot 5.",
+          "condition": "Warranty selector on each product page ('1 Year Included / 3 Years $129' on LR4, '$149' on LR5); Whisker says the plan covers the robot top-to-bottom with no deductibles and free shipping both ways.",
+          "source_url": "https://www.litter-robot.com/litter-robot-4.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Whisker offers 0% APR financing through Affirm on eligible purchases, with plans of 3, 6, 12 or 18 months.",
+          "condition": "Published on the payment options page; approval and terms are determined by Affirm. Other listed payment methods are credit cards, Shop Pay, Amazon Pay and PayPal.",
+          "source_url": "https://www.litter-robot.com/payment-options.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Litter-Robot's product page states the unit is HSA/FSA eligible.",
+          "condition": "Eligibility is determined per customer through Flex after a brief telehealth consultation, approved within 24 hours; the page notes 'not all customers qualify, and FSA eligibility may vary by employer plan'.",
+          "source_url": "https://www.litter-robot.com/litter-robot-4.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Litter-Robot 4 ships free (excluding AK/HI/PR) and shows a 4.5/5.0 rating from 14,094 reviews.",
+          "condition": "Shipping note and review counter displayed on the Litter-Robot 4 product page on the check date.",
+          "source_url": "https://www.litter-robot.com/litter-robot-4.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Whisker's FAQ says Litter-Robot works best with standard-weight clumping clay litter such as GreatLitter, and that plant-based, non-clumping and wood pellet litters typically do not work.",
+          "condition": "Verbatim guidance from the pre-purchase FAQ: silica gel crystals can work if they pass the screen, but translucent/white litters may affect litter-level and drawer-full indicator accuracy.",
+          "source_url": "https://www.litter-robot.com/faq.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Whisker's FAQ says Litter-Robot 5 adds WasteID (distinguishing urine from feces), an LCD display, a 3-30 lb cat weight range and support for up to 5 cats, on top of Litter-Robot 4's SmartScale weight ID and litter- and waste-level sensing.",
+          "condition": "Differences listed in the FAQ answer to 'What is the difference between Litter-Robot 4 and Litter-Robot 5?'; some features require Whisker+ and optimize after about 30 days of use.",
+          "source_url": "https://www.litter-robot.com/faq.html",
+          "checked": "2026-09-27"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How much does a Litter-Robot cost?",
+          "a": "Litter-Robot publishes 'As low as' prices of $699 for Litter-Robot 4, $799 for Litter-Robot 5 and $899 for Litter-Robot 5 Pro, and shows financing from about $44 per month.",
+          "source_url": "https://www.litter-robot.com/litter-robot-4.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "Can I return a Litter-Robot if my cat won't use it?",
+          "a": "Yes - Whisker publishes a 90-day in-home trial: return within 90 days for a full refund, paying return shipping. Returned units must be clean, and a cleaning fee applies if they come back with litter or waste.",
+          "source_url": "https://www.litter-robot.com/money-back-guarantee.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "What warranty is included?",
+          "a": "1 year of WhiskerCare coverage is included with every unit; a 3-year WhiskerCare plan costs $129 on Litter-Robot 4 and $149 on Litter-Robot 5, covers the robot top-to-bottom with no deductibles and includes free shipping both ways.",
+          "source_url": "https://www.litter-robot.com/litter-robot-4.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "Does Litter-Robot require special litter?",
+          "a": "Whisker recommends a standard-weight clumping clay litter such as GreatLitter. Non-clumping, loose-clumping, newspaper-based and wood pellet litters typically do not work because they do not filter properly through the sifting system.",
+          "source_url": "https://www.litter-robot.com/faq.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "Can I pay over time?",
+          "a": "Whisker offers 0% APR financing through Affirm on eligible purchases with 3, 6, 12 or 18-month plans, alongside credit cards, Shop Pay, Amazon Pay and PayPal.",
+          "source_url": "https://www.litter-robot.com/payment-options.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "Is Litter-Robot HSA/FSA eligible?",
+          "a": "Litter-Robot's product page states HSA/FSA eligibility; eligibility is determined per customer through Flex after a brief telehealth consultation, approved within 24 hours, and varies by employer plan.",
+          "source_url": "https://www.litter-robot.com/litter-robot-4.html",
+          "checked": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "id": "furbo",
+      "name": "Furbo",
+      "slug": "furbo",
+      "official_site": "https://furbo.com/us",
+      "quote_url": "https://furbo.com/us/products/furbo-360-dog-camera",
+      "short_answer": "Furbo sells its treat-tossing pet cameras at $54 each (dog and cat models), both showing 'original price is $184', and runs the Furbo Nanny subscription from $9.99 per month monthly, or $6.99 per month averaged on the yearly Standard plan. Purchases include a 1 Year Warranty, free US shipping and free returns within 30 days.",
+      "price_line": "$54 (was $184)",
+      "price_condition": "Both the Furbo 360° Dog Camera and Furbo 360° Cat Camera show '$54 original price is $184' on their product pages on the check date. Furbo Nanny pricing: Standard $9.99/mo monthly, $6.99/mo yearly (30% off the first year, then $7.99/mo), $6.49/mo on the 2-year plan (35% off the first 2 years, then $7.49/mo); Premium is $12.49/mo monthly, $8.74/mo yearly (then $9.99/mo) and $8.12/mo on the 2-year plan (then $9.37/mo). Promotions can change without notice.",
+      "price_source": "https://furbo.com/us/products/furbo-360-dog-camera",
+      "facts": [
+        {
+          "fact": "Furbo lists the Furbo 360° Dog Camera at $54 with 'original price is $184'.",
+          "condition": "Price and struck-through original price displayed on furbo.com/us/products/furbo-360-dog-camera on the check date; the page also offers '$10 off your first Furbo' by e-mail sign-up.",
+          "source_url": "https://furbo.com/us/products/furbo-360-dog-camera",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Furbo lists the Furbo 360° Cat Camera at $54 with 'original price is $184'.",
+          "condition": "Same price treatment as the dog model on furbo.com/us/products/furbo-360-cat-camera on the check date.",
+          "source_url": "https://furbo.com/us/products/furbo-360-cat-camera",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "The Furbo Nanny Standard plan is published at $9.99/mo monthly, $6.99/mo yearly (30% off the first year, then $7.99/mo) and $6.49/mo on the 2-year plan (35% off the first 2 years, then $7.49/mo).",
+          "condition": "Plan table embedded in the Furbo 360° Dog Camera product page; the default yearly selector shows 'Avg. $6.99/mo', 'original price is $9.99' and includes 3-day video history.",
+          "source_url": "https://furbo.com/us/products/furbo-360-dog-camera",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "The Furbo Nanny Premium plan is published at $12.49/mo monthly, $8.74/mo yearly (30% off the first year, then $9.99/mo) and $8.12/mo on the 2-year plan (35% off the first 2 years, then $9.37/mo).",
+          "condition": "Premium tier of the same plan table on the product page; the page's meta description quotes '$8.12/month' for the 2-year Premium rate.",
+          "source_url": "https://furbo.com/us/products/furbo-360-dog-camera",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Furbo publishes a 1 Year Warranty, free US shipping and free returns within 30 days.",
+          "condition": "Listed under the buy box on both the dog and cat camera product pages on the check date.",
+          "source_url": "https://furbo.com/us/products/furbo-360-dog-camera",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Furbo advertises a free-camera trial: 'First time with Furbo? Get a FREE camera + 30 days of Furbo Nanny', described as taking a camera home with Furbo Nanny included, 'Just pay shipping'.",
+          "condition": "Banner and 'Prefer to try before you buy?' block on the product page on the check date.",
+          "source_url": "https://furbo.com/us/products/furbo-360-dog-camera",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Furbo's Furbo For Good program states 'One Furbo = $1 to Help Rescued Pets', donating $1 for every Furbo sold.",
+          "condition": "Statement printed on the product page next to the purchase section; Furbo says the donation supports rescued pets with meals, healthcare, training and more.",
+          "source_url": "https://furbo.com/us/products/furbo-360-dog-camera",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Furbo says the Standard plan includes a 3-day video history and that its service is used by '1,000,000+ pets and their humans'.",
+          "condition": "Feature bullet and social-proof line displayed under the plan selector on the product page.",
+          "source_url": "https://furbo.com/us/products/furbo-360-dog-camera",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Furbo runs regional stores (furbo.com/us, /ca, /eu-uk, /jp and others), so prices and plans differ by country store.",
+          "condition": "Region switcher links listed in the site header; only the US store figures are reported here.",
+          "source_url": "https://furbo.com/us",
+          "checked": "2026-09-27"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How much does a Furbo camera cost?",
+          "a": "Both the Furbo 360° Dog Camera and the Furbo 360° Cat Camera are listed at $54, each showing 'original price is $184' on the US store on the check date.",
+          "source_url": "https://furbo.com/us/products/furbo-360-dog-camera",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "Do I have to pay for Furbo Nanny?",
+          "a": "Furbo presents Furbo Nanny as a plan you choose at purchase: Standard starts at $9.99/mo monthly or an average of $6.99/mo yearly, Premium at $12.49/mo monthly or $8.74/mo yearly, with 2-year options at $6.49/mo and $8.12/mo for the first two years respectively. The Standard tier includes a 3-day video history.",
+          "source_url": "https://furbo.com/us/products/furbo-360-dog-camera",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "Is there a free trial?",
+          "a": "Furbo advertises 'Get a FREE camera + 30 days of Furbo Nanny' for first-time customers: take a camera home with Furbo Nanny included and just pay shipping.",
+          "source_url": "https://furbo.com/us/products/furbo-360-dog-camera",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "What is the return policy and warranty?",
+          "a": "Furbo publishes a 1 Year Warranty, free US shipping and free returns within 30 days on its US product pages.",
+          "source_url": "https://furbo.com/us/products/furbo-360-dog-camera",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "Are there any official discounts?",
+          "a": "The US product page banners '$10 off your first Furbo' when you sign up with e-mail, and every purchase includes the Furbo For Good donation of $1 per Furbo. No other public promo code is published on the checked page.",
+          "source_url": "https://furbo.com/us/products/furbo-360-dog-camera",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "Does the dog camera differ from the cat camera?",
+          "a": "Furbo lists them as separate models - Furbo 360° Dog Camera and Furbo 360° Cat Camera (the cat model adds a feather wand toy) - at the same $54 price with the same 'original price is $184' and the same Furbo Nanny plans.",
+          "source_url": "https://furbo.com/us/products/furbo-360-cat-camera",
+          "checked": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "id": "petcube",
+      "name": "Petcube",
+      "slug": "petcube",
+      "official_site": "https://petcube.com/",
+      "quote_url": "https://petcube.com/store/category/cameras/",
+      "short_answer": "Petcube sells pet cameras, a treat dispenser and a GPS tracker direct: Cam $26.99 (was $34.99), Cam 360 $34.99 (was $52.99), Play 2 $64.99 (was $99.00), Bites 2 Lite $79.99 (was $149.99) and GPS Tracker $29.99 (was $52.99). Its optional Petcube Care plan starts at $9.99/month, and the cameras work with no monthly fee unless you subscribe.",
+      "price_line": "Cam from $26.99",
+      "price_condition": "Device prices shown in Petcube's device menu and product pages on the check date, each with a struck-through compare-at price; a banner reads 'Save up to $67 on smart pet tech'. Petcube Care is optional and starts at $9.99/month for a 3-day video history tier, with a Care bundle advertised as a free camera plus Petcube Care from $5.99/mo. Promotions change without notice.",
+      "price_source": "https://petcube.com/",
+      "facts": [
+        {
+          "fact": "Petcube's store lists Petcube Cam at $26.99 (was $34.99) and Petcube Cam 360 at $34.99 (was $52.99).",
+          "condition": "Current and compare-at prices shown in the device menu on petcube.com on the check date.",
+          "source_url": "https://petcube.com/cam-360/",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Petcube's store lists Petcube Play 2 at $64.99 (was $99.00) and Petcube Bites 2 Lite at $79.99 (was $149.99).",
+          "condition": "Current and compare-at prices shown in the device menu; the Bites 2 Lite page describes it as a smart HD pet camera with treat dispenser, 160° lens and 2-way audio.",
+          "source_url": "https://petcube.com/bites-2-lite/",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Petcube sells its GPS Tracker for $29.99 (was $52.99) with unlimited LTE/4G connectivity and up to 30 days of battery in power save mode.",
+          "condition": "Price and battery claim printed on petcube.com/tracker/; the page also states a 1-hour fast charge time.",
+          "source_url": "https://petcube.com/tracker/",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Petcube Care costs $9.99/month on the tier advertised with Bites 2 Lite, and the Care bundle is advertised as a free camera plus Petcube Care from $5.99/mo.",
+          "condition": "Prices shown on the Bites 2 Lite product page and in the site menu on the check date; Petcube advertises 'Up to 90-day video history' for Care.",
+          "source_url": "https://petcube.com/bites-2-lite/",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Petcube's FAQ says there is no monthly fee by default: 'By default, there is no monthly fee unless you choose to subscribe to an optional Petcube Care video cloud recording plan.'",
+          "condition": "Verbatim from the store FAQ answer to 'Do you charge a monthly fee?'.",
+          "source_url": "https://petcube.com/cam-360/",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Petcube offers a 45-day hassle-free money-back policy for devices bought through Petcube.com.",
+          "condition": "Verbatim from the store FAQ: 'We offer a 45-day hassle-free money-back policy if you purchase a Petcube device through our store at Petcube.com.'",
+          "source_url": "https://petcube.com/cam-360/",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Petcube warrants its products for one year in the US and Canada and two years in the EU and UK.",
+          "condition": "Warranty policy: one year from retail purchase for the original end-user in the US/Canada, two years in the EU and UK per consumer protection law; a replacement product takes on the remaining warranty.",
+          "source_url": "https://petcube.com/docs/warranty/",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Petcube Cam 360 supports 350° horizontal and 55° vertical rotation, a 105° wide-angle view, 1080p HD video, 2-way audio and 8x digital zoom, and has no laser pointer.",
+          "condition": "Feature list in the Cam 360 page FAQ; Petcube says the laser pointer is on the Play 2 instead.",
+          "source_url": "https://petcube.com/cam-360/",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Petcube's site currently banners 'Save up to $67 on smart pet tech'.",
+          "condition": "Promo strip displayed across petcube.com pages on the check date; like all promotions it can change or end without notice.",
+          "source_url": "https://petcube.com/",
+          "checked": "2026-09-27"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How much do Petcube devices cost?",
+          "a": "On the check date Petcube listed Cam at $26.99 (was $34.99), Cam 360 at $34.99 (was $52.99), Play 2 at $64.99 (was $99.00), Bites 2 Lite at $79.99 (was $149.99) and the GPS Tracker at $29.99 (was $52.99).",
+          "source_url": "https://petcube.com/",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "Do I need a monthly subscription?",
+          "a": "No. Petcube's FAQ states there is no monthly fee by default; a Petcube Care cloud-recording plan is optional and costs $9.99/month on the tier advertised with Bites 2 Lite.",
+          "source_url": "https://petcube.com/cam-360/",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "What is Petcube's return policy?",
+          "a": "Petcube publishes a 45-day hassle-free money-back policy for devices purchased through its own store, Petcube.com.",
+          "source_url": "https://petcube.com/cam-360/",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "What warranty do I get?",
+          "a": "One year from the date of retail purchase in the US and Canada, two years in the EU and UK, covering defects in materials and workmanship under normal use; Petcube may repair, exchange or refund at its discretion.",
+          "source_url": "https://petcube.com/docs/warranty/",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "What is the difference between Petcube Cam and Cam 360?",
+          "a": "Cam 360 rotates 350° horizontally and 55° vertically while Cam does not; other listed features are the same, including 1080p HD video, 2-way audio and 8x digital zoom. Neither includes a laser pointer - that is on the Play 2.",
+          "source_url": "https://petcube.com/cam-360/",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "Does the Petcube GPS Tracker need a data plan?",
+          "a": "Petcube sells the tracker as a $29.99 device with 'unlimited LTE/4G connectivity' and up to 30 days of battery in power save mode; the checked pages publish no separate monthly tracker fee.",
+          "source_url": "https://petcube.com/tracker/",
+          "checked": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "id": "tractive",
+      "name": "Tractive",
+      "slug": "tractive",
+      "official_site": "https://tractive.com/",
+      "quote_url": "https://tractive.com/en/pd/gps-tracker-dog",
+      "short_answer": "Tractive sells GPS trackers for dogs and cats from 69 € and states that 'the subscription price is separate from the tracker'. Plans run from 5 € per month (2-Year Basic, 120 € billed every 2 years) to 13 € per month monthly, and every plan carries a 30-day money-back guarantee with free shipping on all trackers.",
+      "price_line": "Tracker from 69 € + plan from 5 €/mo",
+      "price_condition": "DOG 6 catalogue price of 69 € on the product page (DOG 6 XL 79 €, DOG 6 XL Adventure 99 €); plan prices from the plans page: Basic monthly 13 €/mo, 1-Year from 7 €/mo (84 € annually), 2-Year from 5 €/mo (120 € every 2 years); Premium 1-Year from 8 €/mo, 2-Year from 6 €/mo, 5-Year from 5 €/mo (300 € every 5 years). Tractive prints 'Pricing may vary depending on location' and the checked pages are the tractive.com/en (EUR) store.",
+      "price_source": "https://tractive.com/en/pd/gps-tracker-dog",
+      "facts": [
+        {
+          "fact": "Tractive lists the DOG 6 tracker at 69 €, the DOG 6 XL at 79 € and the DOG 6 XL Adventure at 99 €.",
+          "condition": "Catalogue prices embedded in the DOG 6 product page on the check date; the page also shows a 4.7/5.0 rating from 6,357 reviews for its Smart Dog Tracker.",
+          "source_url": "https://tractive.com/en/pd/gps-tracker-dog",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Tractive states 'The subscription price is separate from the tracker' and lists a Monthly plan starting from 13 €/month.",
+          "condition": "Verbatim from the plans page; each plan also carries a 30-day money-back guarantee.",
+          "source_url": "https://tractive.com/en/c/plans",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Tractive's cheapest listed plan is a 2-Year Basic plan from 5 € per month, billed 120 € every 2 years (the page shows a compare-at 6,50 €/month, 156 € every 2 years).",
+          "condition": "Plan tiles on the plans page; a 1-Year Basic plan is from 7 €/month (84 € annually) and the Monthly Basic plan is 13 € billed monthly.",
+          "source_url": "https://tractive.com/en/c/plans",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Tractive's Premium tier lists a 1-Year plan from 8 €/month (96 € annually), a 2-Year plan from 6 €/month (144 €) and a 5-Year plan from 5 €/month (300 € billed every 5 years).",
+          "condition": "Premium column of the plans page on the check date; Premium adds family sharing, 365-day location history and GPS data export over Basic's 24-hour history.",
+          "source_url": "https://tractive.com/en/c/plans",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Tractive publishes a 30-day money-back guarantee and free shipping on all trackers.",
+          "condition": "Statements printed on the plans page next to each plan tile on the check date.",
+          "source_url": "https://tractive.com/en/c/plans",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Tractive's published battery figures are up to 2 weeks for DOG 6, up to 6 weeks for DOG 6 XL and DOG 6 XL Adventure, and up to 7 days for the collar-integrated CAT 6 Mini.",
+          "condition": "Battery and sizing notes in the site navigation on the check date: DOG 6 is for dogs above 4 kg, DOG 6 XL above 20 kg and DOG 6 XL Adventure above 25 kg (extra-strong case).",
+          "source_url": "https://tractive.com/en/pd/gps-tracker-dog",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Tractive says it works in countries with 2G and/or LTE (CatM1) cellular coverage from one of its 500+ partners.",
+          "condition": "Coverage note in the Basic vs Premium comparison table; Basic users get 24-hour location history while Premium adds 365-day history and GPS data export.",
+          "source_url": "https://tractive.com/en/c/plans",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Tractive offers an optional 'Tractive Care' add-on for loss, damage or theft at 2 €/month on top of a 1-Year plan (24 € annually) or 1,50 €/month on a 2-Year plan (36 €).",
+          "condition": "Add-on tiles at the bottom of the plans page on the check date; it is sold separately from the tracking plan.",
+          "source_url": "https://tractive.com/en/c/plans",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Tractive's product page claims 'The no. 1 pet tracker on Trustpilot' and shows 6,357 reviews rated 4.7 out of 5 for its Smart Dog Tracker.",
+          "condition": "Self-published review counter and claim on the DOG 6 product page; Tractive does not independently audit this claim on the page.",
+          "source_url": "https://tractive.com/en/pd/gps-tracker-dog",
+          "checked": "2026-09-27"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Does Tractive need a monthly subscription?",
+          "a": "Yes. Tractive states that 'the subscription price is separate from the tracker' and lists plans from 13 €/month monthly down to 5 €/month on the 2-Year Basic plan (120 € billed every 2 years).",
+          "source_url": "https://tractive.com/en/c/plans",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "How much is the Tractive tracker itself?",
+          "a": "The DOG 6 is listed at 69 €, the DOG 6 XL at 79 € and the DOG 6 XL Adventure at 99 € on the tractive.com/en store on the check date; Tractive notes pricing may vary by location.",
+          "source_url": "https://tractive.com/en/pd/gps-tracker-dog",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "What is the difference between Basic and Premium?",
+          "a": "Both include live GPS tracking, heart and respiratory rate monitoring and activity/sleep monitoring. Premium adds family sharing, 365-day location history and GPS data export; Basic gives 24-hour location history.",
+          "source_url": "https://tractive.com/en/c/plans",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "How long does the battery last?",
+          "a": "Tractive publishes up to 2 weeks for DOG 6, up to 6 weeks for DOG 6 XL and DOG 6 XL Adventure, and up to 7 days for the collar-integrated CAT 6 Mini.",
+          "source_url": "https://tractive.com/en/pd/gps-tracker-dog",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "Can I get my money back?",
+          "a": "Tractive publishes a 30-day money-back guarantee on its plans page, and free shipping on all trackers.",
+          "source_url": "https://tractive.com/en/c/plans",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "Is device protection available?",
+          "a": "Tractive sells an optional Tractive Care add-on for loss, damage or theft at 2 €/month on top of a 1-Year plan (24 € annually) or 1,50 €/month on a 2-Year plan (36 €).",
+          "source_url": "https://tractive.com/en/c/plans",
+          "checked": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "id": "pawfit",
+      "name": "Pawfit",
+      "slug": "pawfit",
+      "official_site": "https://www.pawfit.com/",
+      "quote_url": "https://www.pawfit.com/en-gb/product/pawfit-3.html",
+      "short_answer": "Pawfit sells the Pawfit 3 GPS tracker for £54.99 plus a subscription plan, with Basic from £3.99 per month (billed £95.76 every 2 years) and Premium from £3.99 per month (billed £143.64 every 3 years). The UK store publishes a 30-day money-back guarantee, an 18-month warranty, free delivery and location updates every 5 seconds.",
+      "price_line": "£54.99 + subscription",
+      "price_condition": "Pawfit 3 price shown on pawfit.com's UK store page, with the note 'Exclusively on the Pawfit website'. Subscription plans on the same page: Premium 3 Years £3.99/month (billed £143.64 every 3 years), 2 Years £4.99/month (billed £119.76), 1 Year £6.99/month (billed £83.88); Basic 2 Years £3.99/month (billed £95.76), 1 Year £5.99/month (billed £71.88), 1 Month £9.99/month. All figures are GBP as printed on the en-gb store.",
+      "price_source": "https://www.pawfit.com/en-gb/product/pawfit-3.html",
+      "facts": [
+        {
+          "fact": "Pawfit lists the Pawfit 3 GPS Dog Tracker at £54.99 plus a subscription plan, 'Exclusively on the Pawfit website'.",
+          "condition": "Price and note on the Pawfit 3 product page (UK store, GBP); the page shows a 4.5 rating from 3,392 reviews.",
+          "source_url": "https://www.pawfit.com/en-gb/product/pawfit-3.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Pawfit's Premium plan is priced at £3.99/month billed £143.64 every 3 years, £4.99/month billed £119.76 every 2 years, or £6.99/month billed £83.88 every year.",
+          "condition": "Premium plan tiles on the Pawfit 3 page; the 3-year term is labelled 'New - Best Value' and the 2-year term 'Most Popular'.",
+          "source_url": "https://www.pawfit.com/en-gb/product/pawfit-3.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Pawfit's Basic plan is priced at £3.99/month billed £95.76 every 2 years, £5.99/month billed £71.88 every year, or £9.99/month monthly.",
+          "condition": "Basic plan tiles on the same page; Basic keeps live tracking, unlimited range, 24-hour location history, activity monitoring, safety zones and family sharing, with a shorter tracked-walk duration than Premium.",
+          "source_url": "https://www.pawfit.com/en-gb/product/pawfit-3.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Pawfit publishes a 30-day money-back guarantee, an 18-month warranty and free delivery on the Pawfit 3 page.",
+          "condition": "Three notes printed directly under the price on the product page on the check date.",
+          "source_url": "https://www.pawfit.com/en-gb/product/pawfit-3.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Pawfit says the Pawfit 3 updates its live location every 5 seconds and offers a FIND mode with those 5-second updates plus a Bluetooth-based 'Find Nearby' mode.",
+          "condition": "Feature bullets on the Pawfit 3 page; Pawfit also lists safety zones, LED light and alarm, voice commands and family sharing.",
+          "source_url": "https://www.pawfit.com/en-gb/product/pawfit-3.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Pawfit publishes 'Up to 8-day battery life' for the Pawfit 3.",
+          "condition": "Battery claim in the 'Track with confidence' section of the Pawfit 3 page on the check date.",
+          "source_url": "https://www.pawfit.com/en-gb/product/pawfit-3.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Pawfit's FAQ says Pawfit 3 uses a branch of the 4G network while Pawfit 2 used 2G, and the tracker needs adequate mobile network coverage to work.",
+          "condition": "Verbatim from the FAQ answer to 'What is the difference between Pawfit 2 and Pawfit 3?'.",
+          "source_url": "https://www.pawfit.com/en-gb/product/pawfit-3.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Pawfit's app features list includes tracking up to 20 pets at once, 24-hour location history and remote voice recalls.",
+          "condition": "'Essential security features in the Pawfit App' list on the Pawfit 3 page on the check date.",
+          "source_url": "https://www.pawfit.com/en-gb/product/pawfit-3.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "fact": "Pawfit sells spares from its tracker page: collar strap £3.99, collar attachment £5.99 and charging dock and cable £7.99.",
+          "condition": "Spares prices listed on the Pawfit dog trackers page (UK store, GBP) on the check date.",
+          "source_url": "https://www.pawfit.com/en-gb/gps-dog-trackers.html",
+          "checked": "2026-09-27"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How much does Pawfit cost?",
+          "a": "The Pawfit 3 tracker is £54.99 plus a subscription: Basic from £3.99/month (billed £95.76 every 2 years) up to £9.99/month monthly, or Premium from £3.99/month (billed £143.64 every 3 years) up to £6.99/month billed yearly.",
+          "source_url": "https://www.pawfit.com/en-gb/product/pawfit-3.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "What is the difference between Basic and Premium?",
+          "a": "Both include live location updates every 5 seconds, unlimited range, 24-hour history, activity monitoring, safety zones and family sharing. Premium raises the single tracked-walk duration from 2 hours to 6 hours and lists more consistent location update rates during walk tracking.",
+          "source_url": "https://www.pawfit.com/en-gb/product/pawfit-3.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "Can I get my money back?",
+          "a": "Pawfit publishes a 30-day money-back guarantee, an 18-month warranty and free delivery on the Pawfit 3 product page.",
+          "source_url": "https://www.pawfit.com/en-gb/product/pawfit-3.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "How often does the tracker update location?",
+          "a": "Pawfit states live location tracking updates every 5 seconds, with a Bluetooth-based Find Nearby mode for pinpoint accuracy indoors.",
+          "source_url": "https://www.pawfit.com/en-gb/product/pawfit-3.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "Does Pawfit work for cats?",
+          "a": "Yes - Pawfit's FAQ says Pawfit 3 is a lightweight tracker that can be used for cats, and the site sells a separate cat tracker range; the same FAQ notes the tracker uses 4G, so adequate network coverage is needed.",
+          "source_url": "https://www.pawfit.com/en-gb/product/pawfit-3.html",
+          "checked": "2026-09-27"
+        },
+        {
+          "q": "How many pets can I track on one account?",
+          "a": "Pawfit's app feature list says you can track up to 20 pets at once, with family sharing so several people can look after the same dog.",
+          "source_url": "https://www.pawfit.com/en-gb/product/pawfit-3.html",
+          "checked": "2026-09-27"
+        }
+      ]
+    }
+  ]
+}

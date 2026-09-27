@@ -1,0 +1,25 @@
+name: build-and-deploy
+
+# Build the static site and deploy to Cloudflare Pages when data or templates change.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-in: ubuntu-latest
+    if: ${{ false }} # deploy from operator machine for now; flip to true after adding CLOUDFLARE_API_TOKEN secret
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python build.py
+      - run: npx --yes wrangler@4 pages deploy site --project-name=smart-pet-device-decisions --branch=main --commit-dirty=true
