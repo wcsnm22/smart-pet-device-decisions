@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smart-pet-device-decisions.pages.dev/sitemap.xml
