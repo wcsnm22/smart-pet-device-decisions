@@ -26,12 +26,16 @@ SITE_DIR = ROOT / "site"
 
 # 只允许品牌官网域名做来源；编辑型文章（articles.json）同样受此约束
 OFFICIAL_HOSTS = {
-    # 支柱3 智能设备四家品牌自有官网（排期 #19-#22）
+    # 支柱3 智能设备品牌自有官网（排期 #19-#22）
     "litter-robot.com", "www.litter-robot.com",
     "furbo.com", "www.furbo.com",
     "petcube.com", "www.petcube.com",
     "tractive.com", "www.tractive.com",
     "pawfit.com", "www.pawfit.com",
+    # #19 自动猫砂盆对比新增的三家品牌自有官网（2026-09-27 当日现抓）
+    "catgenie.com", "www.catgenie.com",
+    "petkit.com", "www.petkit.com",
+    "meowant.com", "www.meowant.com",
 }
 
 # 文章内 compare/facts/faqs/cards 块的默认小标题（可用块内 "h2" 覆盖，null = 不出标题）

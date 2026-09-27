@@ -24,9 +24,12 @@ official = {"litter-robot.com", "www.litter-robot.com",
             "furbo.com", "www.furbo.com",
             "petcube.com", "www.petcube.com",
             "tractive.com", "www.tractive.com",
-            "pawfit.com", "www.pawfit.com"}
+            "pawfit.com", "www.pawfit.com",
+            "catgenie.com", "www.catgenie.com",
+            "petkit.com", "www.petkit.com",
+            "meowant.com", "www.meowant.com"}
 # 允许品牌官方站的子域（如 blog.justfoodfordogs.com），但域名主体必须在上面的白名单里
-OFFICIAL_LINK = r'href="https://(?:[a-z0-9-]+\.)*(?:www\.)?(?:litter-robot|furbo|petcube|tractive|pawfit)[^"]*"'
+OFFICIAL_LINK = r'href="https://(?:[a-z0-9-]+\.)*(?:www\.)?(?:litter-robot|furbo|petcube|tractive|pawfit|catgenie|petkit|meowant)[^"]*"'
 n = bad = offsite = 0
 for b in data["brands"]:
     for f in b["facts"] + b["faqs"]:
