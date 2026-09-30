@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 848" width="720" height="848" role="img" aria-labelledby="t d">
+<title id="t">Furbo vs Petcube: camera prices and subscription rates read from both official stores on 2026-09-30</title>
+<desc id="d">Top panel: one-time camera prices in USD with the compare-at price each site prints. Bottom panel: subscription cost per month in USD, monthly billing against the site-printed yearly average.</desc>
+<rect width="720" height="848" fill="#ffffff"/>
+<text x="30" y="36" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#1b2733">Furbo vs Petcube: what each store printed on 2026-09-30</text>
+<text x="30" y="58" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5b6b7a">Sources: furbo.com product pages · petcube.com store, Care and policy pages · read 2026-09-30 · USD</text>
+<text x="30" y="92" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#1b2733">A. Camera price today (USD, one-time) - lighter bar = the compare-at price each site prints</text>
+<line x1="46" y1="360.0" x2="700" y2="360.0" stroke="#e3e8ee" stroke-width="1"/>
+<text x="38" y="364.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">0</text>
+<line x1="46" y1="302.5" x2="700" y2="302.5" stroke="#e3e8ee" stroke-width="1"/>
+<text x="38" y="306.5" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">50</text>
+<line x1="46" y1="245.0" x2="700" y2="245.0" stroke="#e3e8ee" stroke-width="1"/>
+<text x="38" y="249.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">100</text>
+<line x1="46" y1="187.5" x2="700" y2="187.5" stroke="#e3e8ee" stroke-width="1"/>
+<text x="38" y="191.5" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">150</text>
+<line x1="46" y1="130.0" x2="700" y2="130.0" stroke="#e3e8ee" stroke-width="1"/>
+<text x="38" y="134.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">200</text>
+<rect x="71.5" y="319.8" width="58" height="40.2" fill="#d8dfe6"/>
+<rect x="71.5" y="329.0" width="58" height="31.0" fill="#e07b39"/>
+<text x="100.5" y="321.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#1b2733">$26.99</text>
+<text x="100.5" y="378" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#1b2733">Petcube</text>
+<text x="100.5" y="393" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">Cam</text>
+<text x="100.5" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6b7a">was $34.99</text>
+<rect x="180.5" y="299.1" width="58" height="60.9" fill="#d8dfe6"/>
+<rect x="180.5" y="319.8" width="58" height="40.2" fill="#e07b39"/>
+<text x="209.5" y="311.8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#1b2733">$34.99</text>
+<text x="209.5" y="378" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#1b2733">Petcube</text>
+<text x="209.5" y="393" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">Cam 360</text>
+<text x="209.5" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6b7a">was $52.99</text>
+<rect x="289.5" y="148.4" width="58" height="211.6" fill="#d8dfe6"/>
+<rect x="289.5" y="297.9" width="58" height="62.1" fill="#14708c"/>
+<text x="318.5" y="289.9" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#1b2733">$54</text>
+<text x="318.5" y="378" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#1b2733">Furbo</text>
+<text x="318.5" y="393" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">360° Dog</text>
+<text x="318.5" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6b7a">was $184</text>
+<rect x="398.5" y="148.4" width="58" height="211.6" fill="#d8dfe6"/>
+<rect x="398.5" y="297.9" width="58" height="62.1" fill="#14708c"/>
+<text x="427.5" y="289.9" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#1b2733">$54</text>
+<text x="427.5" y="378" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#1b2733">Furbo</text>
+<text x="427.5" y="393" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">360° Cat</text>
+<text x="427.5" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6b7a">was $184</text>
+<rect x="507.5" y="246.2" width="58" height="113.8" fill="#d8dfe6"/>
+<rect x="507.5" y="285.3" width="58" height="74.7" fill="#e07b39"/>
+<text x="536.5" y="277.3" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#1b2733">$64.99</text>
+<text x="536.5" y="378" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#1b2733">Petcube</text>
+<text x="536.5" y="393" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">Play 2</text>
+<text x="536.5" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6b7a">was $99</text>
+<rect x="616.5" y="187.5" width="58" height="172.5" fill="#d8dfe6"/>
+<rect x="616.5" y="268.0" width="58" height="92.0" fill="#e07b39"/>
+<text x="645.5" y="260.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#1b2733">$79.99</text>
+<text x="645.5" y="378" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#1b2733">Petcube</text>
+<text x="645.5" y="393" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">Bites 2 Lite</text>
+<text x="645.5" y="408" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#5b6b7a">was $149.99</text>
+<line x1="46" y1="360" x2="700" y2="360" stroke="#1b2733" stroke-width="1.5"/>
+<text x="30" y="434" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#1b2733">B. Subscription price per month (USD/month) - monthly billing vs the yearly average each site prints</text>
+<line x1="46" y1="720.0" x2="700" y2="720.0" stroke="#e3e8ee" stroke-width="1"/>
+<text x="38" y="724.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">0</text>
+<line x1="46" y1="636.7" x2="700" y2="636.7" stroke="#e3e8ee" stroke-width="1"/>
+<text x="38" y="640.7" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">6</text>
+<line x1="46" y1="553.3" x2="700" y2="553.3" stroke="#e3e8ee" stroke-width="1"/>
+<text x="38" y="557.3" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">12</text>
+<line x1="46" y1="470.0" x2="700" y2="470.0" stroke="#e3e8ee" stroke-width="1"/>
+<text x="38" y="474.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">18</text>
+<rect x="70.8" y="581.2" width="52" height="138.8" fill="#14708c"/>
+<rect x="132.8" y="622.9" width="52" height="97.1" fill="#14708c" opacity="0.45"/>
+<text x="96.8" y="573.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#1b2733">$9.99</text>
+<text x="158.8" y="614.9" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5b6b7a">$6.99</text>
+<text x="127.8" y="738" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#1b2733">Furbo Nanny</text>
+<text x="127.8" y="753" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">Standard · monthly / yearly avg</text>
+<rect x="234.2" y="546.5" width="52" height="173.5" fill="#14708c"/>
+<rect x="296.2" y="598.6" width="52" height="121.4" fill="#14708c" opacity="0.45"/>
+<text x="260.2" y="538.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#1b2733">$12.49</text>
+<text x="322.2" y="590.6" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5b6b7a">$8.74</text>
+<text x="291.2" y="738" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#1b2733">Furbo Nanny</text>
+<text x="291.2" y="753" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">Premium · monthly / yearly avg</text>
+<rect x="397.8" y="581.2" width="52" height="138.8" fill="#e07b39"/>
+<rect x="459.8" y="650.7" width="52" height="69.3" fill="#e07b39" opacity="0.45"/>
+<text x="423.8" y="573.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#1b2733">$9.99</text>
+<text x="485.8" y="642.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5b6b7a">$4.99</text>
+<text x="454.8" y="738" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#1b2733">Petcube Care</text>
+<text x="454.8" y="753" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">Optimal · monthly / yearly avg</text>
+<rect x="561.2" y="484.0" width="52" height="236.0" fill="#e07b39"/>
+<rect x="623.2" y="553.5" width="52" height="166.5" fill="#e07b39" opacity="0.45"/>
+<text x="587.2" y="476.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#1b2733">$16.99</text>
+<text x="649.2" y="545.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#5b6b7a">$11.99</text>
+<text x="618.2" y="738" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#1b2733">Petcube Care</text>
+<text x="618.2" y="753" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">Premium · monthly / yearly avg</text>
+<line x1="46" y1="720" x2="700" y2="720" stroke="#1b2733" stroke-width="1.5"/>
+<rect x="30" y="774" width="14" height="14" fill="#14708c"/>
+<text x="50" y="786" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">Furbo</text>
+<rect x="106" y="774" width="14" height="14" fill="#e07b39"/>
+<text x="126" y="786" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#5b6b7a">Petcube</text>
+<text x="30" y="812" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#5b6b7a">Panel A: one-time USD per camera, as printed (lighter bar = the compare-at price the site prints). Panel B: USD per month.</text>
+<text x="30" y="830" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#5b6b7a">Different units, never subtracted. Furbo 2-year rates ($6.49 / $8.12), Petcube free Basic tier and its $5.99/mo bundle are in the table, not here.</text>
+</svg>

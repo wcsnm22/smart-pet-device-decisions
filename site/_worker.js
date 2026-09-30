@@ -1,7 +1,7 @@
 // ILANG
 // TYPE:worker ROLE:canonical-host-and-real-404
 const CANONICAL_HOST = "smart-pet-device-decisions.pages.dev";
-const VALID_PATHS = new Set(["/", "/about", "/assets/automatic-litter-box-prices.svg", "/assets/favicon.svg", "/assets/litter-robot-alternatives.svg", "/assets/style.css", "/best-automatic-litter-box", "/contact", "/furbo", "/litter-robot", "/litter-robot-alternatives", "/pawfit", "/petcube", "/privacy", "/robots.txt", "/sitemap.xml", "/tractive"]);
+const VALID_PATHS = new Set(["/", "/about", "/assets/automatic-litter-box-prices.svg", "/assets/favicon.svg", "/assets/furbo-vs-petcube.svg", "/assets/litter-robot-alternatives.svg", "/assets/style.css", "/best-automatic-litter-box", "/contact", "/furbo", "/furbo-vs-petcube", "/litter-robot", "/litter-robot-alternatives", "/pawfit", "/petcube", "/privacy", "/robots.txt", "/sitemap.xml", "/tractive"]);
 
 export default {
   async fetch(request, env) {
