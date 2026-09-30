@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 880" width="960" height="880" role="img" aria-label="Infographic read from four official stores on 2026-09-30: cheapest fully-automatic litter box prices against Litter-Robot's starting price - Litter-Robot 5 as low as 799 dollars, Litter-Robot 4 as low as 699 dollars, CatGenie Whoosh from 469 dollars against 499, reconditioned CatGenie A.I. 449 dollars sold out, Meowant SC02 399.99 dollars against 559.99, PETKIT Purobot Max 3 399.99 dollars against 499.99, PETKIT Crystal Duo 199.99 dollars against 299.99, PETKIT Crystal Duo gray 159.99 dollars against 299.99 limited-time deal; lower panel shows the return windows each site prints: Litter-Robot 90 days customer pays return shipping, CatGenie 90 days return authorization with 10-day deadline and 20 percent handling charge, Meowant SC09 90-day free trial, Meowant SC02 30-day free trial, PETKIT 30 calendar days from delivery">
+  <defs>
+    <pattern id="hatch" width="7" height="7" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <rect width="7" height="7" fill="#0f172a"/>
+      <line x1="0" y1="0" x2="0" y2="7" stroke="#94a3b8" stroke-width="2.2"/>
+    </pattern>
+  </defs>
+  <g font-family="Segoe UI, Arial, sans-serif">
+
+    <text x="8" y="28" font-size="19" font-weight="700" fill="#0f172a">What the four official stores print, read 2026-09-30</text>
+    <text x="8" y="52" font-size="13.5" fill="#475569">Every figure below was on the brand's own page on the check date. All four sell in USD, so no conversion is involved - the bars are side by side, never subtracted.</text>
+
+    <!-- legend -->
+    <rect x="8" y="66" width="16" height="16" rx="3" fill="#0f172a"/>
+    <text x="30" y="79" font-size="12.5" fill="#334155">price printed today</text>
+    <rect x="170" y="66" width="16" height="16" rx="3" fill="#94a3b8"/>
+    <text x="192" y="79" font-size="12.5" fill="#334155">regular price, when printed</text>
+    <rect x="360" y="66" width="16" height="16" rx="3" fill="url(#hatch)"/>
+    <text x="382" y="79" font-size="12.5" fill="#334155">"As low as" starting price - no regular price printed</text>
+
+    <!-- ============ panel A: prices, scale 0.6 px per USD, x0 = 300 ============ -->
+    <g>
+      <!-- Litter-Robot 5: $799 as low as -->
+      <text x="8" y="114" font-size="13.5" font-weight="600" fill="#0f172a">Litter-Robot 5</text>
+      <text x="8" y="133" font-size="12" fill="#64748b">"As low as $799"; "Selling fast: ships in 1-3 days"</text>
+      <rect x="300" y="102" width="479" height="22" rx="5" fill="url(#hatch)"/>
+      <text x="787" y="118" font-size="13" font-weight="600" fill="#0f172a">$799</text>
+
+      <!-- Litter-Robot 4: $699 as low as -->
+      <text x="8" y="170" font-size="13.5" font-weight="600" fill="#0f172a">Litter-Robot 4</text>
+      <text x="8" y="189" font-size="12" fill="#64748b">lowest "As low as" figure on the site</text>
+      <rect x="300" y="158" width="419" height="22" rx="5" fill="url(#hatch)"/>
+      <text x="727" y="174" font-size="13" font-weight="600" fill="#0f172a">$699</text>
+
+      <!-- CatGenie Whoosh: $469 from $499 -->
+      <text x="8" y="226" font-size="13.5" font-weight="600" fill="#0f172a">CatGenie Whoosh</text>
+      <text x="8" y="245" font-size="12" fill="#64748b">A.I. prints "From $499.00" vs $529.00</text>
+      <rect x="300" y="214" width="281" height="22" rx="5" fill="#0f172a"/>
+      <text x="589" y="230" font-size="13" font-weight="600" fill="#0f172a">$469.00</text>
+      <rect x="300" y="240" width="299" height="12" rx="4" fill="#94a3b8"/>
+      <text x="607" y="250" font-size="12" fill="#475569">was $499.00</text>
+
+      <!-- CatGenie reconditioned A.I.: $449 sold out -->
+      <text x="8" y="282" font-size="13.5" font-weight="600" fill="#0f172a">CatGenie A.I., reconditioned</text>
+      <text x="8" y="301" font-size="12" fill="#64748b">both reconditioned units showed "Sold Out"</text>
+      <rect x="300" y="270" width="269" height="22" rx="5" fill="#0f172a"/>
+      <text x="577" y="286" font-size="13" font-weight="600" fill="#0f172a">$449.00</text>
+
+      <!-- Meowant SC02: $399.99 against $559.99 -->
+      <text x="8" y="338" font-size="13.5" font-weight="600" fill="#0f172a">Meowant MW-SC02</text>
+      <text x="8" y="357" font-size="12" fill="#64748b">SC09 large model: $649.99 vs $789.99</text>
+      <rect x="300" y="326" width="240" height="22" rx="5" fill="#0f172a"/>
+      <text x="548" y="342" font-size="13" font-weight="600" fill="#0f172a">$399.99</text>
+      <rect x="300" y="352" width="336" height="12" rx="4" fill="#94a3b8"/>
+      <text x="644" y="362" font-size="12" fill="#475569">was $559.99</text>
+
+      <!-- PETKIT Max 3: $399.99 against $499.99 -->
+      <text x="8" y="394" font-size="13.5" font-weight="600" fill="#0f172a">PETKIT Purobot Max 3</text>
+      <text x="8" y="413" font-size="12" fill="#64748b">Max Pro 2 $499.99, Ultra $799.99</text>
+      <rect x="300" y="382" width="240" height="22" rx="5" fill="#0f172a"/>
+      <text x="548" y="398" font-size="13" font-weight="600" fill="#0f172a">$399.99</text>
+      <rect x="300" y="408" width="300" height="12" rx="4" fill="#94a3b8"/>
+      <text x="608" y="418" font-size="12" fill="#475569">was $499.99</text>
+
+      <!-- PETKIT Crystal Duo: $199.99 against $299.99 -->
+      <text x="8" y="450" font-size="13.5" font-weight="600" fill="#0f172a">PETKIT Purobot Crystal Duo</text>
+      <text x="8" y="469" font-size="12" fill="#64748b">with camera; hooded variant $229.99</text>
+      <rect x="300" y="438" width="120" height="22" rx="5" fill="#0f172a"/>
+      <text x="428" y="454" font-size="13" font-weight="600" fill="#0f172a">$199.99</text>
+      <rect x="300" y="464" width="180" height="12" rx="4" fill="#94a3b8"/>
+      <text x="488" y="474" font-size="12" fill="#475569">was $299.99</text>
+
+      <!-- PETKIT Crystal Duo gray: $159.99 against $299.99 limited -->
+      <text x="8" y="506" font-size="13.5" font-weight="600" fill="#0f172a">PETKIT Crystal Duo (gray)</text>
+      <text x="8" y="525" font-size="12" fill="#64748b">"Limited Time Deal" badge, Save 47%</text>
+      <rect x="300" y="494" width="96" height="22" rx="5" fill="#0f172a"/>
+      <text x="404" y="510" font-size="13" font-weight="600" fill="#0f172a">$159.99</text>
+      <rect x="300" y="520" width="180" height="12" rx="4" fill="#94a3b8"/>
+      <text x="488" y="530" font-size="12" fill="#475569">was $299.99</text>
+    </g>
+
+    <!-- ============ panel B: return windows in days, scale 3 px per day, x0 = 300 ============ -->
+    <text x="8" y="578" font-size="16" font-weight="700" fill="#0f172a">Try-it window each site prints, in days</text>
+    <text x="8" y="598" font-size="12.5" fill="#475569">Same unit on every bar - days - but the refunds behind them differ; the fine print sits under each name.</text>
+
+    <g>
+      <!-- Litter-Robot: 90 days -->
+      <text x="8" y="630" font-size="13.5" font-weight="600" fill="#0f172a">Litter-Robot 90-day in-home trial</text>
+      <text x="8" y="647" font-size="12" fill="#64748b">refund of the purchase price less shipping; the customer pays return shipping</text>
+      <rect x="300" y="616" width="270" height="20" rx="5" fill="#0f172a"/>
+      <text x="578" y="631" font-size="13" font-weight="600" fill="#0f172a">90 days</text>
+
+      <!-- CatGenie: 90 days -->
+      <text x="8" y="678" font-size="13.5" font-weight="600" fill="#0f172a">CatGenie 90-day money-back guarantee</text>
+      <text x="8" y="695" font-size="12" fill="#64748b">merchandise cost only; return authorization, unit back within 10 days or 20% handling charge</text>
+      <rect x="300" y="664" width="270" height="20" rx="5" fill="#0f172a"/>
+      <text x="578" y="679" font-size="13" font-weight="600" fill="#0f172a">90 days</text>
+
+      <!-- Meowant SC09: 90 days -->
+      <text x="8" y="726" font-size="13.5" font-weight="600" fill="#0f172a">Meowant MW-SC09 free trial</text>
+      <text x="8" y="743" font-size="12" fill="#64748b">"90-Day Free Trial" printed on the SC09 product page</text>
+      <rect x="300" y="712" width="270" height="20" rx="5" fill="#0f172a"/>
+      <text x="578" y="727" font-size="13" font-weight="600" fill="#0f172a">90 days</text>
+
+      <!-- Meowant SC02: 30 days -->
+      <text x="8" y="774" font-size="13.5" font-weight="600" fill="#0f172a">Meowant MW-SC02 free trial</text>
+      <text x="8" y="791" font-size="12" fill="#64748b">"30-Day Free Trial" printed on the SC02 product page</text>
+      <rect x="300" y="760" width="90" height="20" rx="5" fill="#0f172a"/>
+      <text x="398" y="775" font-size="13" font-weight="600" fill="#0f172a">30 days</text>
+
+      <!-- PETKIT: 30 days -->
+      <text x="8" y="822" font-size="13.5" font-weight="600" fill="#0f172a">PETKIT return window</text>
+      <text x="8" y="839" font-size="12" fill="#64748b">thirty (30) calendar days of delivery; return shipping is the customer's unless it is a quality issue</text>
+      <rect x="300" y="808" width="90" height="20" rx="5" fill="#0f172a"/>
+      <text x="398" y="823" font-size="13" font-weight="600" fill="#0f172a">30 days</text>
+    </g>
+
+    <text x="8" y="866" font-size="11.5" fill="#64748b">Sources: litter-robot.com, catgenie.com, petkit.com and meowant.com pages read 2026-09-30. Prices, banners and stock change without notice - check the linked page before you buy.</text>
+  </g>
+</svg>
